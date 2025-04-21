@@ -1,0 +1,36 @@
+[
+    {
+        "id":1,
+        "name": "iPhone 16",
+        "price": "60000 Rs",
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRD5B9H7LHyATjzI3Fu3meVzde_r0XG0SOXSNgw3J10qruj4hc3kyx7PSC1WQN5bfCkhVT9YaBy-nJ3xvf3vZBZA-sJRd4h8SfHFx9zvFmJ"
+    },
+
+    {
+        "id":2,
+        "name": "Samsung S24",
+        "price": "65000 Rs",
+        "image": "https://m.media-amazon.com/images/I/41OmEIOlJCL._SX300_SY300_QL70_FMwebp_.jpg"
+    },
+
+    {
+        "id":1,
+        "name": "Vivo V27",
+        "price": "30000 Rs",
+        "image": "https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/1677578839819/d3a0e8fda185e0e930eec73464b3fd3f.png"
+    },
+
+    {
+        "id":1,
+        "name": "Samsung M31",
+        "price": "20000 Rs",
+        "image": "https://m.media-amazon.com/images/I/41OmEIOlJCL._SX300_SY300_QL70_FMwebp_.jpg"
+    },
+
+    {
+        "id":1,
+        "name": "Vivo V50",
+        "price": "40000 Rs",
+        "image": "https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/1677578839819/d3a0e8fda185e0e930eec73464b3fd3f.png"
+    }
+]
